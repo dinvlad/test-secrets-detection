@@ -1,10 +1,5 @@
 # test-secrets-detection
 
-a
+this is a test using a known AWS secret
 
-b
-
-c
-
-d
 
