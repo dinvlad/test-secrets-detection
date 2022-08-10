@@ -2,4 +2,6 @@
 
 this is a test using a known publicized AWS secret
 
-b
+AKIAIWNJYAX4CSVEH53A
+
+dtVr/+lOA2sW+34iyNrJmP3YorlqV=eE4izCkcPW
