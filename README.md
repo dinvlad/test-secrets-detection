@@ -2,4 +2,4 @@
 
 this is a test using a known publicized AWS secret
 
-a
+b
